@@ -4,9 +4,9 @@ import (
 	"encoding/json"
 	"time"
 
-	"github.com/davidhwang-ij/bookstore_oauth-api/golang-restclient/rest"
 	"github.com/davidhwang-ij/bookstore_oauth-api/src/domain/users"
 	"github.com/davidhwang-ij/bookstore_oauth-api/src/utils/errors"
+	"github.com/mercadolibre/golang-restclient/rest"
 )
 
 var (
